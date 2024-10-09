@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|c:\\users\\23073343\\onedrive - activate learning\\stock1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|c:\\users\\23073343\\onedrive - activate learning\\stock1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|c:\\users\\23073343\\onedrive - activate learning\\stock1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|c:\\users\\23073343\\onedrive - activate learning\\stock1\\stockmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|solutionrelative:stockmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|c:\\users\\23073343\\onedrive - activate learning\\stock1\\stockmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|solutionrelative:stockmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|c:\\users\\23073343\\onedrive - activate learning\\stock1\\stockmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C98393-5B5E-4B3D-B291-CB198C857907}|Stock1.csproj|solutionrelative:stockmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\StockMain.Designer.cs",
+              "RelativeDocumentMoniker": "StockMain.Designer.cs",
+              "ToolTip": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\StockMain.Designer.cs",
+              "RelativeToolTip": "StockMain.Designer.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAiwMAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:01:39.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockMain.cs",
+              "DocumentMoniker": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\StockMain.cs",
+              "RelativeDocumentMoniker": "StockMain.cs",
+              "ToolTip": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\StockMain.cs",
+              "RelativeToolTip": "StockMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:55:49.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\StockMain.cs",
+              "RelativeDocumentMoniker": "StockMain.cs",
+              "ToolTip": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\StockMain.cs [Design]",
+              "RelativeToolTip": "StockMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:55:06.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADgv2cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:46:16.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:42:25.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\23073343\\OneDrive - Activate Learning\\Stock1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:41:34.452Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
