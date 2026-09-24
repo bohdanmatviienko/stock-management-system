@@ -2,7 +2,6 @@ C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\Stock1.exe.confi
 C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\Stock1.exe
 C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\Stock1.pdb
 C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.AssemblyReference.cache
-C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Form1.resources
 C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Properties.Resources.resources
 C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.GenerateResource.cache
 C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.CoreCompileInputs.cache
@@ -10,3 +9,166 @@ C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.exe
 C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.pdb
 C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.StockMain.resources
 C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Products.resources
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Stock.resources
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\bin\Debug\stdole.dll
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ReportForms.ProductsReport.resources
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.CopyComplete
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ReportForms.StockReport.resources
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\Stock1.exe.config
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\Stock1.exe
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\Stock1.pdb
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\bin\Debug\stdole.dll
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.AssemblyReference.cache
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Form1.resources
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Products.resources
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Properties.Resources.resources
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ReportForms.ProductsReport.resources
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ReportForms.StockReport.resources
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Stock.resources
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.StockMain.resources
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.GenerateResource.cache
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.CoreCompileInputs.cache
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.CopyComplete
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.exe
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.pdb
+C:\Users\23073343.OCC\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ForgotPasswordForm.resources
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ForgotPasswordForm.resources
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ResetPasswordForm.resources
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.RegisterForm.resources
+C:\Users\23073343\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Login.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\Stock1.exe.config
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\Stock1.exe
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\Stock1.pdb
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\bin\Debug\stdole.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.AssemblyReference.cache
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ForgotPasswordForm.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Login.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Products.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Properties.Resources.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.RegisterForm.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ReportForms.ProductsReport.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ReportForms.StockReport.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.ResetPasswordForm.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.Stock.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.StockMain.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.GenerateResource.cache
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.csproj.Up2Date
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.exe
+C:\Users\Bohdan\OneDrive - Activate Learning\Stock1\obj\Debug\Stock1.pdb
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\Stock1.exe.config
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\Stock1.exe
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\Stock1.pdb
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\stdole.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.csproj.AssemblyReference.cache
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.ForgotPasswordForm.resources
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.Login.resources
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.Products.resources
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.Properties.Resources.resources
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.RegisterForm.resources
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.ReportForms.ProductsReport.resources
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.ReportForms.StockReport.resources
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.ResetPasswordForm.resources
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.Stock.resources
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.StockMain.resources
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.csproj.GenerateResource.cache
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.csproj.CoreCompileInputs.cache
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.exe
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.pdb
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\Stock1.exe.config
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\Stock1.exe
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\Stock1.pdb
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\stdole.dll
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.csproj.AssemblyReference.cache
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.ForgotPasswordForm.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.Login.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.Products.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.Properties.Resources.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.RegisterForm.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.ReportForms.ProductsReport.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.ReportForms.StockReport.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.ResetPasswordForm.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.Stock.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.StockMain.resources
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.csproj.GenerateResource.cache
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.csproj.Up2Date
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.exe
+C:\Users\Bohdan\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.pdb
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\23073343\OneDrive - Activate Learning\Assignment 2 Unit 16\Stock1\obj\Debug\Stock1.csproj.CopyComplete

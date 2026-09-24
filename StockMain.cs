@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CrystalDecisions.CrystalReports.Engine;
+
 
 namespace Stock1
 {
@@ -17,12 +19,25 @@ namespace Stock1
         {
             InitializeComponent();
         }
-
+        bool close = true;
         private void StockMain_FormClosing(object sender, FormClosingEventArgs e)
         {
-            Application.Exit();
+            if (close)
+            {
+                DialogResult result = MessageBox.Show("Are you sure you want to exit?", "Exit", 
+                    MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (result == DialogResult.Yes)
+                {
+                    close = false;
+                    Application.Exit();
+                }
+                else
+                {
+                    e.Cancel = true;
+                } 
+            }
         }
-
+ 
         private void productsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Products pro = new Products();
@@ -30,5 +45,30 @@ namespace Stock1
             pro.StartPosition = FormStartPosition.CenterScreen;
             pro.Show();
         }
+
+        private void stockToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Stock stk = new Stock();
+            stk.MdiParent = this;
+            stk.StartPosition = FormStartPosition.CenterScreen;
+            stk.Show();
+        }
+
+        private void productReportsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ReportForms.ProductsReport prod = new ReportForms.ProductsReport(); 
+            prod.MdiParent = this;
+            prod.StartPosition = FormStartPosition.CenterScreen;
+            prod.Show();
+        }
+
+        private void stockReportsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ReportForms.StockReport stoc = new ReportForms.StockReport();
+            stoc.MdiParent = this;
+            stoc.StartPosition = FormStartPosition.CenterScreen;
+            stoc.Show();
+        }
+
     }
 }

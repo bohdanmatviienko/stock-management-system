@@ -30,42 +30,46 @@ namespace Stock1
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-        SqlConnection con = new SqlConnection("Data Source=BAN-B5-WK-007;Initial Catalog=Stock;Integrated Security=True;");
-
-            con.Open();
-            bool status = false;
-            if (cmbStatus.SelectedIndex == 0)
+            if (Validation())
             {
-                status = true;
+                SqlConnection con = Connection.GetConnection();
 
-            }
-            else
-            {
-                status = false;
-            }
+                con.Open();
+                bool status = false;
+                if (cmbStatus.SelectedIndex == 0)
+                {
+                    status = true;
 
-            var sqlQuery = "";
+                }
+                else
+                {
+                    status = false;
+                }
+
+                var sqlQuery = "";
 
 
-            if (IfProductExists(con, txtProductCode.Text))
-            {
-                sqlQuery = @"UPDATE [Products] SET [ProductName] = '" + txtProductName.Text + "' ,[ProductStatus] = '" + status + "' " +
-                            "WHERE [ProductCode] = '" + txtProductCode.Text + "'";
-            }
-            else
-            {
-                sqlQuery = @"INSERT INTO [Stock].[dbo].[Products] ([ProductCode],[ProductName],[ProductStatus]) VALUES
+                if (IfProductExists(con, txtProductCode.Text))
+                {
+                    sqlQuery = @"UPDATE [Products] SET [ProductName] = '" + txtProductName.Text + "' ,[ProductStatus] = '" + status + "' " +
+                                "WHERE [ProductCode] = '" + txtProductCode.Text + "'";
+                }
+                else
+                {
+                    sqlQuery = @"INSERT INTO [Stock].[dbo].[Products] ([ProductCode],[ProductName],[ProductStatus]) VALUES
                           ('" + txtProductCode.Text + "', '" + txtProductName.Text + "', '" + status + "')";
+                }
+                SqlCommand cmd = new SqlCommand(sqlQuery, con);
+                cmd.ExecuteNonQuery();
+                con.Close();
+                //Reading Data
+                LoadData();
+                btnAdd.Text = "Add"; 
             }
-            SqlCommand cmd = new SqlCommand(sqlQuery, con);
-            cmd.ExecuteNonQuery();
-            con.Close();
-            //Reading Data
-            LoadData();
         }
         public void LoadData()
         {
-            SqlConnection con = new SqlConnection("Data Source = BAN-B5-WK-007; Initial Catalog = Stock; Integrated Security = True");
+            SqlConnection con = Connection.GetConnection();
             SqlDataAdapter sda = new SqlDataAdapter("Select * From [Stock].[dbo].[Products]", con);
             DataTable dt = new DataTable();
             sda.Fill(dt);
@@ -83,21 +87,6 @@ namespace Stock1
                 {
                     dgvProducts.Rows[n].Cells[2].Value = "Inactive";
                 }
-                
-            }
-        }
-        private void dgvProducts_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
-        {
-            btnAdd.Text = "Update";
-            txtProductCode.Text = dgvProducts.SelectedRows[0].Cells[0].Value.ToString();
-            txtProductName.Text = dgvProducts.SelectedRows[0].Cells[1].Value.ToString();
-            if (dgvProducts.SelectedRows[0].Cells[2].Value.ToString() == "Active")
-            {
-                cmbStatus.SelectedIndex = 0;
-            }
-            else
-            {
-                cmbStatus.SelectedIndex = 1;
             }
         }
         private bool IfProductExists(SqlConnection con, string productCode)
@@ -112,28 +101,86 @@ namespace Stock1
                 return false;
             }
 
-        private void dgvProducts_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
+       
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection("Data Source=BAN-B5-WK-007;Initial Catalog=Stock;Integrated Security=True");
-            var sqlQuery = "";
-            if (IfProductExists(con, txtProductCode.Text))
+            DialogResult dialogResult = MessageBox.Show("Are you sure you want to delete this record?", "Message", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.Yes)
             {
-                con.Open();
-                sqlQuery = @"DELETE FROM [Products] WHERE [ProductCode] = '" + txtProductCode.Text + "'";
-                SqlCommand cmd = new SqlCommand(sqlQuery, con);
-                cmd.ExecuteNonQuery();
-                con.Close();
+                if (Validation())
+                {
+                    SqlConnection con = Connection.GetConnection();
+                    var sqlQuery = "";
+                    if (IfProductExists(con, txtProductCode.Text))
+                    {
+                        con.Open();
+                        sqlQuery = @"DELETE FROM [Products] WHERE [ProductCode] = '" + txtProductCode.Text + "'";
+                        SqlCommand cmd = new SqlCommand(sqlQuery, con);
+                        cmd.ExecuteNonQuery();
+                        con.Close();
+                    }
+                    else
+                    {
+                        MessageBox.Show("No record found with that product code");
+                    }
+                    LoadData();
+                }
+            }
+        }
+        private void ResetRecords()
+        {
+            txtProductCode.Clear();
+            txtProductName.Clear();
+            cmbStatus.SelectedIndex = -1;
+            btnAdd.Text = "Add";
+            txtProductCode.Focus();
+        }
+
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+            ResetRecords();
+        }
+        private bool Validation()
+        {
+            bool result = false;
+            if(string.IsNullOrEmpty(txtProductCode.Text))
+            {
+                // in design added errorProvider1
+                errorProvider1.Clear();
+                errorProvider1.SetError(txtProductCode, "Product Code Required");
+            }
+            else if (string.IsNullOrEmpty(txtProductName.Text))
+            {
+                errorProvider1.Clear();
+                errorProvider1.SetError(txtProductName, "Product Name Required");
+            }
+            else if (cmbStatus.SelectedIndex == -1)
+            {
+                errorProvider1.Clear();
+                errorProvider1.SetError(cmbStatus, "Select Status");
             }
             else
             {
-                MessageBox.Show("No record found with that product code");
+                errorProvider1.Clear();
+                result = true;
             }
-            LoadData();
+            return result;
+        }
+
+        private void dgvProducts_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            btnAdd.Text = "Update";
+            txtProductCode.Text = dgvProducts.SelectedRows[0].Cells[0].Value.ToString();
+            txtProductName.Text = dgvProducts.SelectedRows[0].Cells[1].Value.ToString();
+            if (dgvProducts.SelectedRows[0].Cells[2].Value.ToString() == "Active")
+            {
+                cmbStatus.SelectedIndex = 0;
+            }
+            else
+            {
+                cmbStatus.SelectedIndex = 1;
+            }
         }
     }
     }
